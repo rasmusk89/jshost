@@ -1,1 +1,0 @@
-export const ApiBaseUrl = "https://kindergarten-ms.azurewebsites.net/api/v1"
